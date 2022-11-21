@@ -1,0 +1,23 @@
+
+
+.text {
+    height: 20%;
+    width: 100%;
+    padding: 50px;
+    background-color: rgb(199, 167, 220);
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    display: block;
+    position: relative;
+    bottom: 55px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid {
+    background-color: rgb(199, 167, 220);
+}
