@@ -21,3 +21,9 @@
 .container-fluid {
     background-color: rgb(199, 167, 220);
 }
+
+.box-1 {
+    float: right;
+    bottom: 430px;
+    background-color: rgb(199, 167, 220);
+}
